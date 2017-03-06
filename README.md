@@ -1,6 +1,10 @@
 
-解压NSUserDefaultEncryption直接导入工程
+NSUserDefaultEnceyption<br>
+==
 
-无需添加任何代码，给NSUserDefault数据加密
+＃解压'NSUserDefalutEncryption'文件直接导入到工程中<br>
 
-欢迎提问:qq24272779
+＃无需添加任何代码，就可以给NSUserDefalut数据加密<br>
+
+---
+![](https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif)  
