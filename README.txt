@@ -1,0 +1,6 @@
+
+解压NSUserDefaultEncryption直接导入工程
+
+无需添加任何代码，给NSUserDefault数据加密
+
+欢迎提问:qq24272779
