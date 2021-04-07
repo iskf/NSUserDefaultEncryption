@@ -3,7 +3,7 @@
 //  OAuth_Demo
 //
 //  Created by InnoeriOS1 on 2017/3/3.
-//  qq:24272779
+//  https://github.com/iskf
 //
 
 #import "NSUserDefaults+EncryptionCipher.h"
@@ -311,5 +311,5 @@ static NSString *_secret = @"innoways";
     @finally {}
 }
 
-//  qq:24272779
+// https://github.com/iskf
 @end
